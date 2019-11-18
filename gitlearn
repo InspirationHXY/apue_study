@@ -1,0 +1,2 @@
+1. creat SSH Key
+ssh-keygen -t rsa  -C "youremail@example.com"
